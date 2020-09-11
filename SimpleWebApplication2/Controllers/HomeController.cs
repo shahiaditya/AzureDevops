@@ -15,7 +15,7 @@ namespace SimpleWebApplication2.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "This is Aditya's Page";
+            ViewBag.Message = "This is Aditya's Page, He is a nice guy.";
 
             return View();
         }
